@@ -1,6 +1,7 @@
-package sec02.exam04;
+package sec01.exam;
 
 public class VariableScopeExample {
+
 	public static void main(String[] args) {
 		int v1 = 15;
 		if(v1>10) {

@@ -1,6 +1,7 @@
-package sec02.exam01;
+package sec01.exam;
 
 public class VariableUseExample {
+
 	public static void main(String[] args) {
 		int hour = 3;
 		int minute = 5;
@@ -19,6 +20,7 @@ public class VariableUseExample {
 		y = temp;
 		System.out.println("x:" + x + ", y:" + y);
 		
+
 	}
 
 }

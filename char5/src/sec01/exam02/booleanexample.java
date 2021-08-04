@@ -11,6 +11,10 @@ public class booleanexample {
 			}
 			System.out.printf("\n");
 		}
+		
+		int[] score = {95,99,98,97};
+		for (int x : score) 
+			System.out.printf("%d " ,x);
 	}
 
 }
